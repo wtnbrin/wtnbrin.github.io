@@ -1,0 +1,40 @@
+p {
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: justify;
+}
+
+#rectangle {
+    position: relative;
+    margin-top: 5% !important;
+    margin: auto;
+    width: 800px;
+    height: auto;
+    background: white;
+}
+
+h2 {
+    text-align: center;
+    position: relative;
+    font-style: italic;
+    line-height: 40px;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-family: 'Orienta', sans-serif;
+    letter-spacing: 1px;
+}
+
+img {
+    float: left;
+    margin: 20px 20px 0px 20px;
+    width: 300px;
+}
+
+A:link {
+    color: black;
+}
+
+A:visited {
+    color: black;
+}
